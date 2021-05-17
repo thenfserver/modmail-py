@@ -7,6 +7,7 @@ Modmail is a basic modmail bot written in python for the (discord.gg)[NFREALMUSI
 1. [Install python](https://python.org/).
 2. Install discord.py by opening your terminal and typing `pip3 install discord` on linux and mac or `pip install discord` on windows.
 3. [Create a bot application](https://discord.com/developers/docs/game-sdk/applications)
+
 *[Click here if you need furter help making the bot application](https://discordpy.readthedocs.io/en/stable/discord.html).*
 4. Invite the bot to the server you want the modmail.
 4. After you made the bot application copy the bot's token and paste it in the `mainy.py` file where it says `TOKEN_HERE`.
