@@ -1,5 +1,7 @@
 # What is modmail?
+Modmail is a way that server members can report members to the staff team if they're breaking the rules or just asking general questions about the server.
 
+# What is the modmail bot?
 Modmail is a basic modmail bot written in python for the [NFREALMUSIC](discord.gg) discord server, but the code can be changed to work in any server.
 
 # How do I make it work in my server?
