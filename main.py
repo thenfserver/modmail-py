@@ -5,7 +5,7 @@ from discord.ext.commands import has_permissions, MissingPermissions
 start_time = time.time()
 
 client = commands.Bot(command_prefix="!!")
-TOKEN = ''
+TOKEN = 'TOKEN_HERE'
 
 for filename in os.listdir('./cogs'):
     if filename.endswith('.py'):
